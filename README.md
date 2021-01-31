@@ -1,6 +1,6 @@
 # Object classification in remote sensing images with Machine Learning
 
-## Steps for Pre-processing of Data
+## Steps for Data Pre-processing
 • First, we downloaded the testing dataset which was for Sentinel 1 – EW satellite for the city of Stockholm, Sweden for the year of 2020 from the respective link which was given to us.
 • Then we used QGIS software tool to render the downloaded satellite image.
 • Since our Testing satellite picture had only one band which was Gray scale, we have raster the image to get different bands for our Testing Image. (The reason that why we Raster the images, is that first we tried to train our model with the black and white pictures but when we cropped the pictures since everything was in the same color our model did not performed well in the means of accuracy so, we created the raster image with RGB colors to differentiate between the categories)
