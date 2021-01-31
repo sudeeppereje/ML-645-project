@@ -20,4 +20,10 @@ detection. Instead, we had to do Semantic Segmentation to detect landmarks and c
 
 ## SCREENSHOTS
 
+### Test Image
+
 ![ScreenShot](https://raw.github.com/sudeeppereje/ML-645-project/master/screenshots/Testimage.jpg)
+
+### Predicted Image
+
+![ScreenShot](https://raw.github.com/sudeeppereje/ML-645-project/master/screenshots/PredictedImage.jpg)
