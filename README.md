@@ -17,3 +17,7 @@
 detection. Instead, we had to do Semantic Segmentation to detect landmarks and classes like Forest, Sea, and Urban.
 • After converting the dataset into np array, we then processed the Numpy array dataset to the pool of CNN-2D and Dense layer activation as Relu' using Keras. We have formed the Dense layer using the activation 'Softmax'.
 • Next, we have compiled the model using "Adam" optimizer and used categorical cross entropy for the loss.
+
+## SCREENSHOTS
+
+https://raw.github.com/sudeeppereje/ML-645-project/master/screenshots/Testimage.jpg
